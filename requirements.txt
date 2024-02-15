@@ -1,2 +1,5 @@
 streamlit
+streamlit_chat
+streamlit_extras
+hug_chat
 replicate
